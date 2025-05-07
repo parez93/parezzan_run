@@ -1,0 +1,9 @@
+MIT License
+
+Copyright (c) 2025 Federico Parezzan
+
+Con la presente si concede gratuitamente a chiunque ottenga una copia di questo software e dei relativi file di documentazione (il "Software"), di trattare il Software senza restrizioni, inclusi, senza limitazioni, i diritti di usare, copiare, modificare, fondere, pubblicare, distribuire, sublicenziare e/o vendere copie del Software, e di permettere alle persone a cui il Software è fornito di farlo, alle seguenti condizioni:
+
+La presente nota di copyright e questa autorizzazione devono essere incluse in tutte le copie o porzioni sostanziali del Software.
+
+IL SOFTWARE È FORNITO "COSÌ COM'È", SENZA GARANZIA DI ALCUN TIPO, ESPRESSA O IMPLICITA, INCLUSA MA NON LIMITATA ALLE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE. IN NESSUN CASO GLI AUTORI O I DETENTORI DEL COPYRIGHT SARANNO RESPONSABILI PER QUALSIASI RECLAMO, DANNO O ALTRE RESPONSABILITÀ, SIA IN UN'AZIONE DI CONTRATTO, TORTO O ALTRO, DERIVANTE DA, O IN CONNESSIONE CON, IL SOFTWARE O L'USO O ALTRE TRANSAZIONI NEL SOFTWARE.

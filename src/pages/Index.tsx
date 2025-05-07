@@ -12,8 +12,10 @@ const Index = () => {
     return (
         <>
             <Helmet>
-                <title>Federico Parezzan - Maratona e corsa in Italia | Storia di trasformazione personale</title>
-                <meta name="description" content="Storia di un maratoneta italiano che ha perso 30 kg in un anno grazie alla corsa. Scopri il percorso di Federico Parezzan, gare, medaglie e risultati." />
+                <title>Federico Parezzan.Run</title>
+                <link rel="icon" type="image/png" href="/favicon.png"/>
+                <meta name="description"
+                      content="Storia di un maratoneta italiano. Scopri il percorso di Federico Parezzan, gare, medaglie e risultati."/>
                 <script type="application/ld+json">
                     {`
             {

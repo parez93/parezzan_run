@@ -2,8 +2,12 @@
 import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Award, Medal } from 'lucide-react';
 import {Avatar, AvatarFallback, AvatarImage} from "@/components/ui/not_used/avatar.tsx";
+
+import rovigoInLove from '../assets/medals/rovigo-in-love.jpg';
+import cremona from '../assets/medals/cremona.jpg';
+import trento from '../assets/medals/trento.jpg';
+
 
 const medals = [
     {
@@ -14,7 +18,7 @@ const medals = [
         time: "2:05:18",
         category: "Mezza Maratona",
         type: "silver",
-        url: "/src/assets/medals/rovigo-in-love.jpg"
+        url: rovigoInLove
     },
     {
         id: 2,
@@ -34,7 +38,7 @@ const medals = [
         time: "1:59:26",
         category: "Mezza Maratona",
         type: "gold",
-        url: "/src/assets/medals/cremona.jpg"
+        url: cremona
     },
     {
         id: 4,
@@ -44,7 +48,7 @@ const medals = [
         time: "2:06:22",
         category: "Mezza Maratona",
         type: "silver",
-        url: "/src/assets/medals/trento.jpg"
+        url: trento
 
     },
     {

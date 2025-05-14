@@ -22,7 +22,7 @@ const Index = () => {
               "@context": "https://schema.org",
               "@type": "Person",
               "name": "Federico Parezzan",
-              "url": "https://parezzan.run",
+              "url": "https://parezzan-run.web.app",
               "image": "/src/assets/profile-image.png",
               "sameAs": [
                 "https://instagram.com/parezzan.run",

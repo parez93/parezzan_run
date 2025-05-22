@@ -6,6 +6,7 @@ import StatsSection from '@/components/StatsSection';
 import MedalsSection from '@/components/MedalsSection';
 import Footer from '@/components/Footer';
 import { Helmet } from 'react-helmet';
+import TimesSection from "@/components/TimesSection.tsx";
 
 
 const Index = () => {
@@ -45,6 +46,9 @@ const Index = () => {
                         </section>
                         <section aria-labelledby="stats-section">
                             <StatsSection/>
+                        </section>
+                        <section aria-labelledby="times-section">
+                            <TimesSection/>
                         </section>
                         <section aria-labelledby="medals-section">
                             <MedalsSection/>

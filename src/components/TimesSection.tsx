@@ -19,15 +19,21 @@ const runTimes: RunTime[] = [
     },
     {
         distance: "10K",
-        time: "49:58",
-        event: "Marcia del giocattolo",
-        date: "8 Dicembre 2024",
+        time: "48:08",
+        event: "Trento HalfMarathon",
+        date: "5 Ottobre 2025",
     },
     {
         distance: "Mezza Maratona",
-        time: "1:59:26",
-        event: "Cremona HalfMarathon",
-        date: "20 Ottobre 2024",
+        time: "1:44:26",
+        event: "Trento HalfMarathon",
+        date: "5 Ottobre 2025",
+    },
+    {
+        distance: "Maratona",
+        time: "3:57:4",
+        event: "Verona Run Marathon",
+        date: "16 Novembre 2025",
     }
 ];
 

@@ -32,7 +32,7 @@ const Header = () => {
                         >
                             Ero sempre l’ultimo.<br/>
                             Ho iniziato camminando, poi correndo.<br/>
-                            Ora corro la mezza maratona con orgoglio!
+                            Ora corro la maratona con orgoglio!
                         </motion.p>
                     </div>
 
@@ -51,7 +51,7 @@ const Header = () => {
                             <div className="absolute inset-0 bg-gradient-to-t from-runner-dark-blue/50 to-transparent"></div>
                         </div>
                         <div className="absolute -bottom-4 -right-4 bg-runner-orange text-white px-4 py-2 rounded-full text-sm font-bold shadow-lg">
-                            MEZZO MARATONETA
+                            MARATONETA
                         </div>
                     </motion.div>
                 </div>

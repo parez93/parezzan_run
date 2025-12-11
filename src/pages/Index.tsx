@@ -29,7 +29,7 @@ const Index = () => {
                 "https://instagram.com/parezzan.run",
                 "https://twitter.com/parezzan.run"
               ],
-              "jobTitle": "Mezzo Maratoneta",
+              "jobTitle": "Maratoneta",
               "description": "Ero sempre l’ultimo. Ho iniziato camminando, poi correndo. Ora corro la mezza maratona con orgoglio!"
             }
           `}
@@ -50,9 +50,9 @@ const Index = () => {
                         <section aria-labelledby="times-section">
                             <TimesSection/>
                         </section>
-                        <section aria-labelledby="medals-section">
+{/*                        <section aria-labelledby="medals-section">
                             <MedalsSection/>
-                        </section>
+                        </section>*/}
                     </article>
                 </main>
                 <Footer/>

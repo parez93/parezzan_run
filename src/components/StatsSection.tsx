@@ -41,10 +41,10 @@ const Stat = ({ value, unit, label, color, progress, index }: StatProps) => {
 
 const StatsSection = () => {
     const stats = [
-        { value: "1.461,75 ", unit: "KM", label: "camminati", color: "text-runner-dark-blue", progress: 55 },
-        { value: "3.859,59", unit: "KM", label: "corsi", color: "text-runner-orange", progress: 90 },
-        { value: "17", label: "gare disputate", color: "text-runner-purple", progress: 75 },
-        { value: "8", label: "mezze maratone concluse", color: "text-green-600", progress: 40 }
+        { value: "13.935 ", unit: "KM", label: "camminati", color: "text-runner-dark-blue", progress: 55 },
+        { value: "5.812", unit: "KM", label: "corsi", color: "text-runner-orange", progress: 90 },
+        { value: "21", label: "gare disputate", color: "text-runner-purple", progress: 75 },
+        { value: "9", label: "mezze maratone concluse", color: "text-green-600", progress: 40 }
     ];
 
     return (
@@ -57,7 +57,7 @@ const StatsSection = () => {
                     transition={{ duration: 0.5 }}
                 >
                     <h2 className="text-3xl md:text-4xl font-bold mb-2 bg-gradient-to-r from-runner-dark-blue to-runner-purple bg-clip-text text-transparent">Il mio percorso in numeri</h2>
-                    <p className="text-gray-500">da fine 2020, aggiornati al 7 maggio 2025</p>
+                    <p className="text-gray-500">da fine 2020, aggiornati al 11 dicembre 2025</p>
                 </motion.div>
 
                 <div className="flex flex-wrap -mx-3">
